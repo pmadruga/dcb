@@ -1,51 +1,51 @@
 ,title,avg_before_2020,2020_total,change(%)
-9488,Medarbejder under 18 år,13,127,876.923076923077
-14229,Servicemedarbejder under 18 år til Food - København V,6,29,383.3333333333333
-18693,Vil du give udsatte børn i Odense ferieoplevelser for livet?,6,20,233.33333333333334
-19433,warehouseworker,6,20,233.33333333333334
-13735,Scrum Master,7,23,228.57142857142856
-13859,Senior Data Scientist,7,23,228.57142857142856
-11028,Product Owner,7,23,228.57142857142856
-13556,Salgsassistent under 18 år til bageriudsalget - Vejle,8,25,212.5
-3186,Data Analyst,6,17,183.33333333333334
-2112,Butiksassistent under 18 år - Rødovre,9,25,177.77777777777777
-16534,Supply Chain Manager,7,19,171.42857142857144
-9859,Murersvend,11,29,163.63636363636363
-18791,Vil du være leder indenfor spedition i Region Syddanmark,7,18,157.14285714285717
-2965,Customer Service Representative,7,18,157.14285714285717
-4133,Engineering Manager,6,15,150.0
-13522,Salgsassistent under 18 år til bageriudsalget - Hjørring,8,20,150.0
-16405,Støtteperson / Mentor (RUC),16,38,137.5
-2114,Butiksassistent under 18 år - Silkeborg,8,19,137.5
-2977,Customer Success Manager,23,53,130.43478260869566
-2092,Butiksassistent under 18 år - Odense SØ,7,16,128.57142857142856
-13286,Sales Development Representative,11,25,127.2727272727273
-12166,QA Engineer,8,18,125.0
-13532,Salgsassistent under 18 år til bageriudsalget - København S,6,13,116.66666666666666
-14000,Senior Software Engineer,14,29,107.14285714285717
-7480,Klinikassistent - Region Syddanmark,14,29,107.14285714285717
-5638,Giv sårbare børn og deres familier i Odense en oplevelse for livet,25,51,104.0
-16391,Støtteperson / Mentor (AAU),37,75,102.70270270270272
-825,Anlægsgartner søges,6,12,100.0
-14206,Servicemedarbejder under 18 år til Food - Aarhus C,8,16,100.0
-13896,Senior Frontend Developer,18,36,100.0
-2056,Butiksassistent under 18 år - København N,6,12,100.0
-2747,Cloud Architect,6,12,100.0
-5719,Graphic Designer,21,41,95.23809523809523
 16402,Støtteperson / Mentor (KU),103,200,94.1747572815534
-2085,Butiksassistent under 18 år - Odense C,14,27,92.85714285714286
-4682,Faglig Vejleder,9,17,88.88888888888889
-17944,UX/UI Designer,8,15,87.5
-13825,Senior Backend Developer,8,15,87.5
-557,Afdelingssygeplejerske,8,15,87.5
-7066,Jordemoder,6,11,83.33333333333333
-9200,Marketingpraktikant,6,11,83.33333333333333
-14888,Social og Sundhedsassistent,6,11,83.33333333333333
-3392,Digital Marketing Manager,11,20,81.81818181818181
-19467,Økonomichef,11,20,81.81818181818181
-4935,Finance Manager,17,30,76.47058823529412
-14649,Site Reliability Engineer,8,14,75.0
-7326,Kasseassistent under 18 år - Hjørring,8,14,75.0
-6179,Head of Support Services,8,14,75.0
-9165,Marketing Manager,18,31,72.22222222222223
-5715,Graphic Design Intern,18,31,72.22222222222223
+8541,Ledsager,519,699,34.6820809248555
+7476,Klinikassistent - Region Hovedstaden,76,89,17.105263157894733
+8665,Lægesekretær,66,72,9.090909090909083
+17265,Tandplejer - Region Hovedstaden,70,73,4.285714285714293
+6006,Handicaphjælper søges,62,64,3.2258064516129004
+14175,Servicemedarbejder under 18 år,105,107,1.904761904761898
+270,Account Manager,59,59,0.0
+17232,Tandlæge - Region Hovedstaden,57,55,-3.508771929824561
+12361,Regnskabsmedarbejdere med SAP-erfaring!,51,49,-3.9215686274509776
+19295,no_title,88429,83546,-5.521944158590508
+5961,Handicaphjælper,2290,2082,-9.082969432314414
+12535,Rengøringsassistent søges,60,54,-9.999999999999998
+19265,lægesekretær,52,43,-17.307692307692314
+425,Afdelingsleder,53,43,-18.867924528301884
+11363,Pædagog,345,275,-20.28985507246377
+17236,Tandlæge - Region Syddanmark,63,48,-23.809523809523814
+19377,sygeplejerske,104,79,-24.03846153846154
+18680,Vikarvagt,107,81,-24.29906542056075
+2562,Chauffør,108,80,-25.92592592592593
+5741,Gravermedhjælper,56,41,-26.785714285714292
+328,Administrativ medarbejder,67,49,-26.865671641791046
+11138,Project Manager,68,49,-27.941176470588236
+17853,Tømrer,89,63,-29.21348314606742
+15366,Social- og sundhedshjælper,118,83,-29.66101694915254
+16176,Studentermedarbejder,127,89,-29.92125984251969
+9845,Murer,51,35,-31.372549019607842
+16607,Sygeplejerske,200,136,-31.999999999999996
+12473,Rengøringsassistent,436,288,-33.944954128440365
+4518,Ernæringsassistent,82,52,-36.58536585365854
+7776,Konsulent,54,34,-37.03703703703704
+17107,Sælger,54,34,-37.03703703703704
+9336,Medarbejder,109,68,-37.61467889908256
+11173,Projektleder,135,84,-37.77777777777778
+7719,Kommunikationspraktikant,54,33,-38.888888888888886
+14141,Servicemedarbejder,99,59,-40.40404040404041
+11989,Pædagogmedhjælper,120,71,-40.833333333333336
+11059,Produktionsmedarbejder,102,60,-41.17647058823529
+14972,Social- og sundhedsassistent,237,137,-42.19409282700421
+1687,Bogholder,67,38,-43.28358208955224
+8753,Lærer,83,45,-45.78313253012048
+7376,Key Account Manager,52,28,-46.15384615384615
+8199,Køkkenmedhjælper,93,49,-47.31182795698925
+7840,Kontorassistent,59,31,-47.45762711864406
+5420,Fysioterapeut,61,32,-47.540983606557376
+3939,Elev,56,29,-48.21428571428571
+3875,Elektriker,111,55,-50.45045045045045
+17649,Tjener,143,70,-51.04895104895104
+8052,Kundeservicemedarbejder,72,33,-54.16666666666667
+18209,Ungarbejder,80,36,-55.00000000000001
